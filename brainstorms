@@ -1,0 +1,17 @@
+capstone brainstorms
+
+politics is study of power; power of language is so important in era of trump
+	incorporate some george lakoff
+doing data analysis first, keep targets in and explain differences in two groups
+	sentiment analysis etc
+
+ecdf distribution plots
+
+recursive NNs
+
+non news text? reddit, twitter, blogs? (question asked Sian)
+
+create custom stop words
+	names of publications
+
+use feat_selection? redundant with max_features in tfidf/cvec
