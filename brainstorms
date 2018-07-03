@@ -1,4 +1,4 @@
-capstone brainstorms
+capstone brainstorms/insights
 
 politics is study of power; power of language is so important in era of trump
 	incorporate some george lakoff
@@ -7,11 +7,12 @@ doing data analysis first, keep targets in and explain differences in two groups
 
 ecdf distribution plots
 
-recursive NNs
+adding n grams to stop words
 
-non news text? reddit, twitter, blogs? (question asked Sian)
+interesting: cleaning the data made my model perform worse on train/test data, but should eventually make it perform well 
 
-create custom stop words
-	names of publications
+test data: newer data, from a mix of clearly polarized sources that aren't in train 	set (guardian, daily stormer (caller? which one's crazy), etc)
 
-use feat_selection? redundant with max_features in tfidf/cvec
+credit news api as source
+
+keep title and description separate for feature creation, put em back together for 		tfidf in pipe
