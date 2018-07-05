@@ -5,7 +5,7 @@ politics is study of power; power of language is so important in era of trump
 doing data analysis first, keep targets in and explain differences in two groups
 	sentiment analysis etc
 
-ecdf distribution plots
+ecdf distribution plots? how can we visualize data with this?
 
 adding n grams to stop words
 
@@ -16,3 +16,5 @@ test data: newer data, from a mix of clearly polarized sources that aren't in tr
 credit news api as source
 
 keep title and description separate for feature creation, put em back together for 		tfidf in pipe
+
+use pca 
