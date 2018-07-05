@@ -17,4 +17,6 @@ credit news api as source
 
 keep title and description separate for feature creation, put em back together for 		tfidf in pipe
 
-use pca 
+use pca
+
+plot roc auc 
