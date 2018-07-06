@@ -19,4 +19,6 @@ keep title and description separate for feature creation, put em back together f
 
 use pca
 
-plot roc auc 
+plot roc auc
+
+mess with transformer weights in pipeline 
