@@ -21,4 +21,8 @@ use pca
 
 plot roc auc
 
-mess with transformer weights in pipeline 
+mess with transformer weights in pipeline
+
+XGBoost
+
+tune over NB more (maybe another model? should work well. MULTINOMIAL) 
