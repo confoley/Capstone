@@ -1,10 +1,24 @@
 # Capstone
 
-Full technical notebook contains the entire project rundown. The datasets folder contains all of the data I scraped as well as the cleaned datasets. The other two notebooks were used to scrape the data.
+This repository contains my Capstone project for the Data Science Immersive course at General Assembly in NYC, July 2018, titled *Classifying Political News Media Text with Natural Language Processing*. In this repo you will find:
+- The full technical notebook of this project
+- A notebook for scraping data from News API
+- A notebook for scraping data from RSS feeds
+- A folder of all the datasets I have used
 
-Source citations:
-- News API
+Import Libraries Used:
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- WordCloud
+- NLTK
+- TextBlob
+- SciKitLearn
+
+An additional post about this project can be found on my blog, [here](http://confoley.github.io).
+
+Source Credits:
+- News API (Fox, Breitbart, National Review, MSNBC, CNN, Huffington Post, Vice News)
 - Infowars RSS Feed
-- Democracy Now RSS Feed
-
-Enjoy!
+- Democracy Now! RSS Feed
