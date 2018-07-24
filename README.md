@@ -4,8 +4,8 @@ This repository contains my Capstone project for the Data Science Immersive cour
 - The full technical notebook of this project
 - A notebook for scraping data from News API
 - A notebook for scraping data from RSS feeds
-- A notebook for a simple RNN model on the text data
-- A folder of all the datasets I have used
+- A notebook with a simple Keras RNN model on the text data
+- A folder of all the datasets I used
 
 Import Libraries Used:
 - Pandas
