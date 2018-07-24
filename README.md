@@ -4,6 +4,7 @@ This repository contains my Capstone project for the Data Science Immersive cour
 - The full technical notebook of this project
 - A notebook for scraping data from News API
 - A notebook for scraping data from RSS feeds
+- A notebook for a simple RNN model on the text data
 - A folder of all the datasets I have used
 
 Import Libraries Used:
@@ -15,10 +16,13 @@ Import Libraries Used:
 - NLTK
 - TextBlob
 - SciKitLearn
+- Keras
 
-An additional post about this project can be found on my blog, [here](http://confoley.github.io).
+Additional posts about this project can be found on my blog, [here](http://confoley.github.io).
 
 Source Credits:
 - News API (Fox, Breitbart, National Review, MSNBC, CNN, Huffington Post, Vice News)
 - Infowars RSS Feed
 - Democracy Now! RSS Feed
+
+Thank you for reading, and please feel free to contact me if you have any questions or comments.
